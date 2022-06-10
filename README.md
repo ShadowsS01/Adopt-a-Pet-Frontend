@@ -3,7 +3,7 @@
   <h1>Adote um Pet</h1>
 </div>
 <p align="center">
-  <a href="LICENCE"><img alt="licence" src="https://img.shields.io/github/license/ShadowsS01/Adopt-a-Pet-Frontend?color=%23AE0FEA"></a>
+  <a href="LICENSE"><img alt="licence" src="https://img.shields.io/github/license/ShadowsS01/Adopt-a-Pet-Frontend?color=%23AE0FEA"></a>
   <img src="https://img.shields.io/github/languages/top/ShadowsS01/Adopt-a-Pet-Frontend?color=%23AE0FEA" alt="Main project language">
 </p>
 <br/>
